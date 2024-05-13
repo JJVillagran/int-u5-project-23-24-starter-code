@@ -71,3 +71,7 @@ div.content {
     border-top: 2px dashed #00796b;
     /* Teal dashed border for separation */
 }
+
+img {
+    align-self: center;
+}
